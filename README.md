@@ -31,12 +31,12 @@ Build an interactive web app with:
 - Popup modal with welcome message.
 
 ---
-
 ## 🖼️ Screenshots
-Count1.png
 
-Count2.png
----
+![Countdown Timer Screenshot](Count1.png)
+
+![Quotes and Modal Screenshot](Count2.png)
+
 
 ## 📚 Concepts Used
 - Arrays
